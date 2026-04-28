@@ -3,12 +3,14 @@ Lab 8
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 5 horas
 
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
+
+Verificar errores que me salían y volver al curso de programación, hasta con su IA, para ver que me fallaba.
 
 ¿Sí o no?
 
@@ -23,7 +25,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/nicolasmancera1
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -35,3 +37,6 @@ Número de horas:
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
+
+Esta tarea de programación representa mi propio trabajo de acuerdo
+con las regulaciones de la Universidad.  /s/ Nicolas Mancera
